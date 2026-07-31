@@ -2,9 +2,9 @@
 
 topics covered in c programming:
 
-* 1.Variables
-2. printf() / scanf()
-3. Arithmetic Operators
-4. Logical Operator (&&)
-5.Nested if...else
-6. Total & Average Calculation
+* Variables
+*  printf() / scanf()
+* Arithmetic Operators
+* gical Operator (&&)
+* Nested if...else
+*  Total & Average Calculation
